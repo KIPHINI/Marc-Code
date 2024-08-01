@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(214, 252, 240);
+    text-align: center;
+    margin-top: 200px;
+}
+
+#login_head
+{
+    color: rgb(226, 17, 177);
+    font-size: 70px;
+}
+
+.input
+{
+    width: 300px;
+    height: 35px;
+    border-radius: 7px;
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+#login
+{
+    width: 90px;
+    padding: 5px;
+    border-radius: 6px;
+}
